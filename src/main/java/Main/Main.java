@@ -1,7 +1,18 @@
-package ArrayList;
+package Main;
+
+import Ejercicio.clsReporte;
+import Listas.ArrayListSample;
 
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Hello world!");
+        ArrayListSample aL= new ArrayListSample();
+        //aL.ejemplo1();
+
+        //aL.ejericio1();
+
+        //aL.listaTareas();
+
+        clsReporte rep = new clsReporte();
+        rep.reporte();
     }
 }
