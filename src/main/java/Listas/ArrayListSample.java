@@ -80,6 +80,7 @@ public class ArrayListSample {
             /* System.out.println("Tarea: "+item.getTaskName());
             System.out.println("Descripcion: "+item.getTaskDescription());
             System.out.println("Estado: "+item.isDone());*/
+
         }
 
 

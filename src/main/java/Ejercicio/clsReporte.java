@@ -7,6 +7,7 @@ import java.util.List;
 
 public class clsReporte {
     public void reporte(){
+
         List<clsEjercicio6> emp = new ArrayList<>();
 
         emp.add(new clsEjercicio6("Juan", 3500, 500));

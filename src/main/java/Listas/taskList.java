@@ -28,11 +28,13 @@ public class taskList {
     }
 
     private String taskDescription;
+
     private boolean isDone;
 
 
     @Override
     public String toString() {
+
         return "Nombre de la Tarea='" + taskName + '\'' +", Descripcion='" + taskDescription + '\'' + ", isDone=" + isDone;
     }
 }

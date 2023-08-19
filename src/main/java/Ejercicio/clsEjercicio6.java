@@ -13,6 +13,7 @@ public class clsEjercicio6 {
         this.descuento = descuento;
         this.sueldoLiquido = sueldoLiquido;
 
+
         sueldoLiquido = sueldo - descuento;
     }
 
